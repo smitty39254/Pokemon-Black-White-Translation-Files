@@ -1,372 +1,372 @@
-バトルビデオ
-バトルサブウェイ
-ランダムマッチ
-やめる
-もどる
-じぶんのきろく
-だれかのきろく
-きろくをけす
-\xf000봂\x0000\xf000Ā\x0001\x0000　のきろく
-あき
-\xf000ȃ\x0001\x0000
-せんめ
-\xf000봂\x0000ビデオナンバー：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002
-\xf000봂\x0000ビデオナンバー：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002★
-\xf000봂\x0000\xf000Ā\x0001\x0000　の　プロフィール
-ねんれい
-\xf000봂\x0000\xf000ȁ\x0001\x0000がつうまれ
-\xf000봂\x0000すんでいるばしょ
-\xf000봂\x0000じこしょうかい
-データ
-プロフィール
+Video Battle
+Batorusabuuei
+Random Match
+Quit
+Back
+Please jackpot Kiro
+Please someone's Kiro
+Please Kesu to Kiro
+\ Xf000 봂 \ x0000 \ xf000Ā \ x0001 \ x0000 good mushroom
+Aki
+\ Xf000ȃ \ x0001 \ x0000
+Me not
+\ Xf000 봂 \ x0000 video number: \ xf000ȁ \ x0001 \ x0000-\ xf000Ȅ \ x0001 \ x0001-\ xf000Ȅ \ x0001 \ x0002
+\ Xf000 봂 \ x0000 video number: \ xf000ȁ \ x0001 \ x0000-\ xf000Ȅ \ x0001 \ x0001-\ xf000Ȅ \ x0001 \ x0002 ★
+\ Xf000 봂 \ x0000 \ xf000Ā \ x0001 \ x0000 Profile
+Rei year
+\ Xf000 봂 \ x0000 \ xf000ȁ \ x0001 \ x0000 commuting is rare
+\ Xf000 봂 \ x0000 cane if I live
+\ Xf000 봂 \ x0000 you the same pepper
+Data
+Profile
  
-みとうろく
-\xf000Ĥ\x0001\x0000
-\xf000ĥ\x0001\x0000
-\xf000Ĝ\x0001\x0000　\xf000Ĝ\x0001\x0001
-\xf000Ā\x0001\x0000　のきろく
-じぶんのきろくをけす
-だれかのきろくをけす
-あき
-\xf000Ā\x0001\x0000　のきろくをけす
-ランキングでさがす
-データをおくる
-さいしん３０けん
-くわしくさがす
-ナンバーでさがす
-しせつでさがす
-ポケモンでさがす
-おなじちいきでさがす
-つうしんたいせん
-バトルサブウェイ
-しゃしんをおくる
-しゃしんをみる
-おくる
-みたいポケモンを　えらんでください
-\xf000Ā\x0001\x0000　の　しゃしん\xfffe\xf000Ĝ\x0001\x0001
-\xf000Ā\x0001\x0000\xfffe\xf000Ĝ\x0001\x0001
-しゃしん
-ボックスをおくる
-ボックスをみる
-だいすき
-かっこいい
-かわいい
-おすすめ
-おもしろい
-こだわり
-ボックス
-くわしくみる
-ア
-カ
-サ
-タ
-ナ
-ハ
-マ
-ヤ
-ラ
-ワ
-こんしゅうのランキング
-せんしゅうのランキング
-ランキングきりかえ
-チームきりかえ
-チーム：トレーナータイプ
-チーム：うまれたつき
-チーム：すきなポケモン
-\xf000Ā\x0001\x0001：\xf000Ď\x0001\x0000
-\xf000Ā\x0001\x0001：\xf000ȁ\x0001\x0000がつうまれ
-\xf000Ā\x0001\x0001：\xf000ā\x0001\x0000
-\xf000ȁ\x0001\x0000 \xf000Ď\x0001\x0001
-\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001がつ
-\xf000ȁ\x0001\x0000：\xf000ā\x0001\x0001
-せんしゅうの　けっか！
-コロシアム
-バトルフロンティア
-ほぞん
-バトルビデオを\xfffeみる
-バトルビデオ
-バトルビデオ\xfffeさいしん３０けん
-バトルビデオ　にんきランキング\xfffeつうしんたいせん
-バトルビデオ　にんきランキング\xfffeバトルサブウェイ
-けんさくした　バトルビデオ\xfffeいちらん
+Register of Mito
+\ Xf000Ĥ \ x0001 \ x0000
+\ Xf000ĥ \ x0001 \ x0000
+\ Xf000Ĝ \ x0001 \ x0000 \ xf000Ĝ \ x0001 \ x0001
+\ Xf000Ā \ x0001 \ x0000 good mushroom
+Please Kesu the jackpot Kiro
+Someone's sure to Kesu Kiro
+Aki
+\ Xf000Ā \ x0001 \ x0000 Kesu a good mushroom
+Search by ranking
+Data Appreciated
+30 Ken Shin Sai
+For more details here
+Search by number
+Search by Setsu to
+Search by Pokemon
+Same here in Chi Iki
+Tsushin Taisen
+Batorusabuuei
+Shashin Appreciated
+And Yashinwomiru
+Appreciated
+Eran like pokemon please
+\ Xf000Ā \ x0001 \ x0000 Shashin of \ xfffe \ xf000Ĝ \ x0001 \ x0001
+\ Xf000Ā \ x0001 \ x0000 \ xfffe \ xf000Ĝ \ x0001 \ x0001
+Shashin
+Appreciated Box
+See Box
+Daisuki
+Cool
+Cute
+Recommended
+Funny
+Commitment
+Box
+For details see
+A
+Cart
+Support
+Data
+Na
+C
+Ma
+Ya
+La
+Wa
+This week's rankings
+Last week's ranking
+Rankings endless maple
+Team endless maple
+Team Type: Trainer
+Team: born with
+Team: I like Pokemon
+\ Xf000Ā \ x0001 \ x0001: \ xf000Ď \ x0001 \ x0000
+\ Xf000Ā \ x0001 \ x0001: \ xf000ȁ \ x0001 \ x0000 commuting is rare
+\ Xf000Ā \ x0001 \ x0001: \ xf000ā \ x0001 \ x0000
+\ Xf000ȁ \ x0001 \ x0000 \ xf000Ď \ x0001 \ x0001
+\ Xf000ȁ \ x0001 \ x0000: \ xf000ȁ \ x0001 \ x0001 Gatsu
+\ Xf000ȁ \ x0001 \ x0000: \ xf000ā \ x0001 \ x0001
+Outcome of last week!
+Colosseum
+Battle Frontier
+Hozon
+Video Battle \ xfffe explore
+Video Battle
+Video: Battle \ xfffe 30 Ken Shin Sai
+Eg for video rankings battle \ xfffe Tsushin Taisen
+Eg for video rankings battle \ xfffe Batorusabuuei
+Ken Battle Video Sakushita \ xfffe Ran Aichi
 
-\xf000Ā\x0001\x0000の きろくを\xfffeどこに　ほぞんしますか？
-うわがきほぞん
-\xf000Ā\x0001\x0000の　バトルビデオを\xfffeけしても　よろしいですか？
-バトルビデオをみる
-バトルビデオをおくる
-さいしん３０けん
-くわしくさがす
-ビデオナンバーでさがす
-しせつでさがす
-ポケモンでさがす
-おなじちいきでさがす
-ＯＫ！
-ビデオナンバーを　にゅうりょくしてください
-しせつを　きめてください
-ポケモンを　きめてください
-じょうけんを　いれてください
-じょうけんが　はいっていません！
-バトルビデオを　さがしています……
-あてはまる　バトルビデオが　ありません……
-バトルビデオを　おくっています……
-バトルビデオを　おくりました！
-\xf000봂\x0000プロフィールをみる
-\xf000봂\x0000プロフィールをしまう
-バトルビデオ　さいしん３０けん
-じょうけんを　いれてください
-なし
-けんさくした　バトルビデオ\xfffeいちらん
-おなじ　バトルビデオは\xfffe２かい　おくれません
-ちいきを　とうろくしていません
-おくる　バトルビデオが　ありません
-\xf000ȁ\x0001\x0000
-つうしんたいせん
-バトルサブウェイ
-すんでいるばしょ\xfffe\xf000Ĥ\x0001\x0000
-\xf000봂\x0000シングルトレイン
-\xf000봂\x0000ダブルトレイン
-\xf000봂\x0000マルチトレイン
-\xf000봂\x0000Ｗｉ－Ｆｉトレイン
-\xf000봂\x0000バトルサブウェイ
-\xf000봂\x0000スーパーシングルトレイン
-\xf000봂\x0000スーパーダブルトレイン
-\xf000봂\x0000スーパーマルチトレイン
-みたい　せいせきを　えらんでください
-ぜんかい：
-さいこう：
-\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-\xf000봃\x0001\x0000れんしょう
-トレーナーとマルチ
-ともだちとマルチ
-ランク
-げんざいの　きろく
-\xf000봂\x0000Ｗｉ－Ｆｉトレイン　せいせき
-げんざい：
-\xf000봂\x0000\xf000Ā\x0001\x0000　の　レーティング
-\xf000봂\x0000レーティングモード　せいせき
-\xf000봂\x0000フリーモード　せいせき
-\xf000봃\x0001\x0000Win
-\xf000봃\x0001\x0000Lose
-\xf000봃\x0001\x0000シングル：
-\xf000봃\x0001\x0000ダブル：
-\xf000봃\x0001\x0000トリプル：
-\xf000봃\x0001\x0000ローテーション：
-\xf000봃\x0001\x0000シューター：
-\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
-\xf000봃\x0001\x0000Rating
-\xf000봂\x0000はい
-\xf000봂\x0000いいえ
-はい
-いいえ
-Ｗｉ－Ｆｉコネクションから\xfffeせつだん　しても　よろしいですか？
-コロシアム　シングル\xfffeせいげんなし
-コロシアム　シングル\xfffeフラット
-コロシアム　シングル\xfffeせいげんなし　シューターあり
-コロシアム　シングル\xfffeフラット　シューターあり
-コロシアム　ダブル\xfffeせいげんなし
-コロシアム　ダブル\xfffeフラット
-コロシアム　ダブル\xfffeせいげんなし　シューターあり
-コロシアム　ダブル\xfffeフラット　シューターあり
-コロシアム　トリプル\xfffeせいげんなし
-コロシアム　トリプル\xfffeフラット
-コロシアム　トリプル\xfffeせいげんなし　シューターあり
-コロシアム　トリプル\xfffeフラット　シューターあり
-コロシアム　ローテーション\xfffeせいげんなし
-コロシアム　ローテーション\xfffeフラット
-コロシアム　ローテーション\xfffeせいげんなし　シューターあり
-コロシアム　ローテーション\xfffeフラット　シューターあり
-コロシアム　マルチ\xfffeせいげんなし
-コロシアム　マルチ\xfffeフラット
-コロシアム　マルチ\xfffeせいげんなし　シューターあり
-コロシアム　マルチ\xfffeフラット　シューターあり
-バトルサブウェイ\xfffeシングル
-バトルサブウェイ\xfffeダブル
-バトルサブウェイ\xfffeマルチ
-ランダムマッチ　フリー\xfffeシングル
-ランダムマッチ　フリー\xfffeダブル
-ランダムマッチ　フリー\xfffeトリプル
-ランダムマッチ　フリー\xfffeローテーション
-ランダムマッチ　フリー\xfffeシューターバトル
-ランダムマッチ　レーティング\xfffeシングル
-ランダムマッチ　レーティング\xfffeダブル
-ランダムマッチ　レーティング\xfffeトリプル
-ランダムマッチ　レーティング\xfffeローテーション
-ランダムマッチ　レーティング\xfffeシューターバトル
-たいかい　シングル\xfffeシューターなし
-たいかい　シングル\xfffeシューターあり
-たいかい　ダブル\xfffeシューターなし
-たいかい　ダブル\xfffeシューターあり
-たいかい　トリプル\xfffeシューターなし
-たいかい　トリプル\xfffeシューターあり
-たいかい　ローテーション\xfffeシューターなし
-たいかい　ローテーション\xfffeシューターあり
-０１：コロシアム　シングル\xfffe　　　シューターなし
-０２：コロシアム　シングル\xfffe　　　シューターあり
-０３：コロシアム　ダブル\xfffe　　　シューターなし 
-０４：コロシアム　ダブル\xfffe　　　シューターあり
-０５：コロシアム　トリプル\xfffe　　　シューターなし
-０６：コロシアム　トリプル\xfffe　　　シューターあり
-０７：コロシアム　ローテーション\xfffe　　　シューターなし
-０８：コロシアム　ローテーション\xfffe　　　シューターあり
-０９：コロシアム　マルチ\xfffe　　　シューターなし
-１０：コロシアム　マルチ\xfffe　　　シューターあり
-１１：バトルサブウェイ\xfffe　　　シングル
-１２：バトルサブウェイ\xfffe　　　ダブル
-１３：バトルサブウェイ\xfffe　　　マルチ
-１４：ランダムマッチ\xfffe　　　シングル
-１５：ランダムマッチ\xfffe　　　ダブル
-１６：ランダムマッチ\xfffe　　　トリプル
-１７：ランダムマッチ\xfffe　　　ローテーション
-１８：ランダムマッチ\xfffe　　　シューターバトル
-１９：バトルたいかい\xfffe
-２０：バトルキャッスル\xfffe　　　マルチ
-２１：バトルルーレット\xfffe　　　シングル
-２２：バトルルーレット\xfffe　　　ダブル
-２３：バトルルーレット\xfffe　　　マルチ
-\xf000봂\x0000TOUCH HERE!
-Ｗｉ－Ｆｉコネクション　から\xfffeせつだんしても　よろしいですか？
-　
-にんしょうエラーで\xfffeせつぞく　できませんでした
-すでに　とうろくされています
-ミュージカルショットの　ないように\xfffeもんだいが　あるようです
-ミュージカルショットの　ポケモンに\xfffeもんだいが　あるようです
-プロフィールの　ないように\xfffeもんだいが　あるようです
-エラーが　はっせいしました
-　
-にんしょうエラーで\xfffeせつぞく　できませんでした
-えらんだ　ポケモンに\xfffeもんだいが　あるようです
-エラーが　はっせいしました
-　
-ユーザーにんしょうエラーです\xfffeすこし　まってから　せつぞくしてください
-すでに　とうろくされています
-ミュージカルショットの　ないように\xfffeもんだいが　あるようです
-プロフィールの　ないように\xfffeもんだいが　あるようです
-あなたの　チームに\xfffeもんだいが　あるようです
-エラーが　はっせいしました
-　
-ユーザーにんしょうエラーです\xfffeすこし　まってから　せつぞくしてください
-あなたの　チームに\xfffeもんだいが　あるようです
-エラーが　はっせいしました
-　
-ユーザーにんしょうエラーです\xfffeすこし　まってから　せつぞくしてください
-エラーが　はっせいしました
-　
-ユーザーにんしょうエラーが　はっせいしました\xfffeさいどじかんを　おいて　せつぞくしてください
-ランキングの　うけとりに\xfffeしっぱいしました
-あなたの　ランキングの　せいせきに\xfffeもんだいが　あるようです
-プロフィールに\xfffeもんだいが　あるようです
-エラーが　はっせいしました
-　
-にんしょうエラーで\xfffeせつぞく　できませんでした
-すでに　とうろくされています
-バトルビデオの　ないように\xfffeもんだいが　あるようです
-バトルビデオの　ないように\xfffeもんだいが　あるようです
-プロフィールに\xfffeもんだいが　あるようです
-バトルビデオの　ポケモンに\xfffeもんだいが　あるようです
-エラーがはっせいしました
-　
-にんしょうエラーで\xfffeせつぞく　できませんでした
-けんさく　ないように\xfffeもんだいが　あるようです
-けんさく　ないように\xfffeもんだいが　あるようです
-けんさく　できませんでした
-　
-にんしょうエラーで\xfffeせつぞく　できませんでした
-あてはまる　バトルビデオが　ありません……
-この　バトルビデオは\xfffeみることが　できません
-バトルビデオの　うけとりに\xfffeしっぱい　しました
-　
-　
-　
-　
-　
-エラーが　はっせいしました\xfffeエラー１０６０１
-エラーが　はっせいしました\xfffeエラー１０６０２
-エラーが　はっせいしました\xfffeエラー１０６０３
-エラーが　はっせいしました\xfffeエラー１０６０４
-せつぞくに　しっぱいしました\xfffeエラー１０６０５
-エラーが　はっせいしました\xfffeエラー１０６０６
-せつぞくに　しっぱいしました\xfffeエラー１０６０７
-エラーが　はっせいしました\xfffeエラー１０６０８
-エラーが　はっせいしました\xfffeエラー１０６０９
-おうとうが　ありません\xfffeエラー１０６１０
-おうとうが　ありません\xfffeエラー１０６１１
-おうとうが　ありません\xfffeエラー１０６１２
-つうしんが　ちゅうだんされました\xfffeエラー１０６１３
-せつぞくに　しっぱいしました\xfffeエラー１０６１４
-　
-　
-　
-　
-　
-　
-　
-サーバーとの　せつぞくが　ちゅうだん　しました
-　
-　
-きろくが　ありません
-ボックスを　えらんでください
-からの　ボックスは　おくれません！
-どの　コーナーに　おくりますか？
-ボックスは　いちどに\xfffeひとつ　しか　おくれません
-おなじ　ボックスは　おくれません
-どの　コーナーを　みますか？
-きろくを　けせませんでした……
-おなじバトルビデオは　ほぞんできません
-ほぞんしています……
-ランキングを　うけとっています……
-ほぞんじょうほうを　おくっています……
-ほぞんが　おわりました！
-\xf000Ā\x0001\x0000の　バトルビデオを\xfffeけしても　よろしいですか？
-ほんとうに　けしても　いいですか？
-きろくを　けしています……\xfffeレポートを　かいています……
-きろくを　けしました！
-ミュージカルショットを　おくっています……
-ミュージカルショットを　うけとっています……
-ボックスショットを　おくっています……
-ボックスショットを　うけとっています……
-おくる　しゃしんが　ありません\xfffeポケモンミュージカルに　さんかしよう！
-おなじ　しゃしんは\xfffe２かい　おくれません
-バトルビデオを　うけとっています……
-あてはまる　しゃしんが　ありません……
-あてはまる　ミュージカルショットが\xfffeありません……
-バトルビデオを　おくりました\xfffeビデオナンバー：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002\xfffe
-バトルビデオを　みる　まえに\xfffeレポートを　かきます
-きろくを　けしています……\xfffeレポートを　たくさん　かいています……
-レポートを　たくさん　かいています……
-レポートを　かいています……
-ランキングが　ありません……
-バトルビデオを　おくりますか？
+\ Xf000Ā \ x0001 \ x0000 sure to Kiro's \ xfffe tenon Where did you do?
+Wow brat Hozon
+\ Xf000Ā \ x0001 \ x0000 video battle of \ xfffe May I corrupted?
+See Video Battle
+Lead a battle video
+30 Ken Shin Sai
+For more details here
+Video Search by Number
+Search by Setsu to
+Search by Pokemon
+Same here in Chi Iki
+OK!
+The number Yuuryokushitekudasai video
+Setsu texture to please the
+Please Pokemon texture
+Please put the same Youkenwo
+Youkenga not say the same!
+Battle is looking for a video ...
+There is no true battle video ...
+Send it to the video battle ...
+Battle Okurimashita video!
+\ Xf000 봂 \ x0000 Viewing profile
+\ Xf000 봂 \ x0000 get a profile
+30 Ken Shin Sai Battle Video
+Please put the same Youkenwo
+No
+Ken Battle Video Sakushita \ xfffe Ran Aichi
+The same battle video \ xfffe2 you Okuremasen
+Thank Rokushi not breathe immediately
+Appreciated There is no battle video
+\ Xf000ȁ \ x0001 \ x0000
+Tsushin Taisen
+Batorusabuuei
+If I live cane \ xfffe \ xf000Ĥ \ x0001 \ x0000
+\ Xf000 봂 \ x0000 single-train
+\ Xf000 봂 \ x0000 Double Train
+\ Xf000 봂 \ x0000 multi-train
+\ Xf000 봂 \ x0000Wi-Fi train
+\ Xf000 봂 \ x0000 Batorusabuuei
+\ Xf000 봂 \ x0000 Supashingurutorein
+\ Xf000 봂 \ x0000 Supadaburutorein
+\ Xf000 봂 \ x0000 Supamaruchitorein
+Eran like cough Please blame
+Zen you:
+Let's be:
+\ Xf000 봃 \ x0001 \ x0000 \ xf000ȃ \ x0001 \ x0000
+\ Xf000 봃 \ x0001 \ x0000 \ xf000ȃ \ x0001 \ x0000
+\ Xf000 봃 \ x0001 \ x0000 lotus ginger
+Multi-trainer
+My friends and multi-
+Rank
+Please atomic Kiro's annoying
+\ Xf000 봂 \ x0000Wi-Fi cough due to train
+Annoying Languages:
+\ Xf000 봂 \ x0000 \ xf000Ā \ x0001 \ x0000 rating
+\ Xf000 봂 \ x0000 cough due Retingumodo
+\ Xf000 봂 \ x0000 because of cough-free mode
+\ Xf000 봃 \ x0001 \ x0000Win
+\ Xf000 봃 \ x0001 \ x0000Lose
+\ Xf000 봃 \ x0001 \ x0000 Single:
+\ Xf000 봃 \ x0001 \ x0000 Double:
+\ Xf000 봃 \ x0001 \ x0000 Triple:
+\ Xf000 봃 \ x0001 \ x0000 Rotation:
+\ Xf000 봃 \ x0001 \ x0000 Shooting:
+\ Xf000 봃 \ x0001 \ x0000 \ xf000ȃ \ x0001 \ x0000
+\ Xf000 봃 \ x0001 \ x0000 \ xf000Ȅ \ x0001 \ x0000
+\ Xf000 봃 \ x0001 \ x0000Rating
+\ Xf000 봂 \ x0000 Yes
+\ Xf000 봂 \ x0000 No
+Yes
+No
+From Wi-Fi Connection \ xfffe you sure you want to do it Setsu?
+Single Coliseum \ xfffe because no atomic
+Single Coliseum \ xfffe Flat
+Single Coliseum \ xfffe has no atomic shooter because
+Single Coliseum \ xfffe flat in Shooting
+Double Coliseum \ xfffe because no atomic
+Double Coliseum \ xfffe Flat
+Double Coliseum \ xfffe has no atomic shooter because
+Double Coliseum \ xfffe flat in Shooting
+Triple Coliseum \ xfffe because no atomic
+Triple Coliseum \ xfffe Flat
+Triple Coliseum \ xfffe has no atomic shooter because
+Triple Coliseum \ xfffe flat in Shooting
+Coliseum rotation \ xfffe because no atomic
+Coliseum rotation \ xfffe Flat
+Coliseum rotation \ xfffe has no atomic shooter because
+Coliseum rotation \ xfffe flat in Shooting
+Coliseum Multi \ xfffe because no atomic
+Coliseum Multi \ xfffe Flat
+Coliseum Multi \ xfffe has no atomic shooter because
+Coliseum Multi \ xfffe flat in Shooting
+Batorusabuuei \ xfffe Single
+Batorusabuuei \ xfffe double
+Batorusabuuei \ xfffe Multi
+Free random match \ xfffe Single
+Free random match \ xfffe double
+Free random match \ xfffe triple
+Free random match \ xfffe rotation
+Free random match \ xfffe Shutabatoru
+Random Match Rating \ xfffe Single
+Random Match Rating \ xfffe double
+Random Match Rating \ xfffe triple
+Random Match Rating \ xfffe rotation
+Random Match Rating \ xfffe Shutabatoru
+Do you want a single \ xfffe No Shooting
+Do you want a single \ xfffe in Shooting
+Do you want double \ xfffe No Shooting
+Do you want double \ xfffe in Shooting
+Do you want a triple \ xfffe No Shooting
+Do you want a triple \ xfffe in Shooting
+Do you want rotation \ xfffe No Shooting
+Do you want rotation \ xfffe in Shooting
+01: Single Coliseum \ xfffe No Shooting
+02: Single Coliseum \ xfffe in Shooting
+03: Double Coliseum \ xfffe No Shooting
+04: Double Coliseum \ xfffe in Shooting
+05: Triple Coliseum \ xfffe No Shooting
+06: Triple Coliseum \ xfffe in Shooting
+07: Rotation Coliseum \ xfffe No Shooting
+08: Rotation Coliseum \ xfffe in Shooting
+09: Multi-Coliseum \ xfffe No Shooting
+10: Multi-Coliseum \ xfffe in Shooting
+11: Batorusabuuei \ xfffe Single
+12: Batorusabuuei \ xfffe double
+13: Batorusabuuei \ xfffe Multi
+14: Random Match \ xfffe Single
+15: Random Match \ xfffe double
+16: Random Match \ xfffe triple
+17: Random Match \ xfffe rotation
+18: Random Match \ xfffe Shutabatoru
+19: You Batorutai \ xfffe
+20: Batorukyassuru \ xfffe Multi
+21: Battle Roulette \ xfffe Single
+22: Battle Roulette \ xfffe double
+23: Battle Roulette \ xfffe Multi
+\ Xf000 봂 \ x0000TOUCH HERE!
+From Wi-Fi Connection \ xfffe you sure you want to do it Setsu?
 
-　
-　
-　
+I speak with an error \ xfffe I could not be sure Setsu
+Register of internal porosity is already
+Shot to avoid the musical \ xfffe What seems to be mon
+Pokemon musical shot \ xfffe What seems to have a mon
+Profile so as not to \ xfffe What seems to have a mon
+Hassei for error
 
-　
-　
-　
-だいすきボックス　さいしん２０けん
-かっこいいボックス　さいしん２０けん
-かわいいボックス　さいしん２０けん
-おすすめボックス　さいしん２０けん
-おもしろいボックス　さいしん２０けん
-こだわりボックス　さいしん２０けん
-じゅくがえり　おとこ
-むしとりしょうねん
-エリートトレーナー　おとこ
-スキンヘッズ
-いせきマニア
-からておう
-おぼっちゃま
-サイキッカー　おとこ
-ミニスカート
-バトルガール
-おとなのおねえさん
-エリートトレーナー　おんな
-アイドル
-マダム
-カウガール
-おじょうさま
-ブラック．
+I speak with an error \ xfffe I could not be sure Setsu
+Pokemon chose \ xfffe What seems to have a mon
+Hassei for error
+
+I speak to the user error \ xfffe Zokushi Please Wait a bit before Setsu
+Register of internal porosity is already
+Shot to avoid the musical \ xfffe What seems to be mon
+Profile so as not to \ xfffe What seems to have a mon
+Your team \ xfffe What seems to have a mon
+Hassei for error
+
+I speak to the user error \ xfffe Zokushi Please Wait a bit before Setsu
+Your team \ xfffe What seems to have a mon
+Hassei for error
+
+I speak to the user error \ xfffe Zokushi Please Wait a bit before Setsu
+Hassei for error
+
+I speak for the error to the user Hassei \ xfffe please leave a dry Zokushi blunder Sai Setsu
+The ranking Uketori \ xfffe for faux pas
+To cough because of your ranking \ xfffe What seems to have a mon
+Profile \ xfffe What seems to have a mon
+Hassei for error
+
+I speak with an error \ xfffe I could not be sure Setsu
+Register of internal porosity is already
+As the video without a battle \ xfffe What seems to have a mon
+As the video without a battle \ xfffe What seems to have a mon
+Profile \ xfffe What seems to have a mon
+Pokemon Battle Video \ xfffe What seems to have a mon
+Hassei for error
+
+I speak with an error \ xfffe I could not be sure Setsu
+As no Ken Saku \ xfffe What seems to have a mon
+As no Ken Saku \ xfffe What seems to have a mon
+Failed Ken Saku
+
+I speak with an error \ xfffe I could not be sure Setsu
+There is no true battle video ...
+This battle video \ xfffe can be seen
+Battle for Video Uketori \ xfffe for faux pas
+
+
+
+
+
+Hassei error for \ xfffe 10601 error
+Hassei error for \ xfffe 10602 error
+Hassei error for \ xfffe 10603 error
+Hassei error for \ xfffe 10604 error
+Realms of faux pas for each Setsu \ xfffe 10605 error
+Hassei error for \ xfffe 10606 error
+Realms of faux pas for each Setsu \ xfffe 10607 error
+Hassei error for \ xfffe 10608 error
+Hassei error for \ xfffe 10609 error
+Oh no Tou \ xfffe 10610 error
+Oh no Tou \ xfffe 10611 error
+Oh no Tou \ xfffe 10612 error
+The Chi Yuudansaremashita Tsushin \ xfffe 10613 error
+Realms of faux pas for each Setsu \ xfffe 10614 error
+
+
+
+
+
+
+
+Setsu'll be sure to immediately Yuudan with the server
+
+
+Kiro not sure
+Please Eran box
+Okuremasen box from?
+How do Okurimasu corner?
+The box at once \ xfffe Okuremasen only one
+The same box Okuremasen
+What Do you want a corner?
+Kiro was ... Kesemasen a sure
+Same can not do battle with tongue video
+Tenon to do ...
+Uketotsu rankings are ...
+Information using a tongue and send it to valued ...
+I have Owarimashita tenon!
+\ Xf000Ā \ x0001 \ x0000 video battle of \ xfffe May I corrupted?
+Can I really corrupted?
+Poppy is a sure Kiro ... ... \ xfffe to write a report ...
+Please Keshimashita the Kiro!
+I send it a shot ... the musical
+Uketotsu musical shot on ...
+Box shots to send it ...
+I Uketotsu box shots ...
+No person Shin Appreciated \ xfffe's trying to do Pokemonmyujikaru!
+The same Shashin \ xfffe2 you Okuremasen
+Battle is a video Uketotsu ...
+Shin has no true person ...
+True musical shots \ xfffe not ...
+Battle video Okurimashita \ xfffe Video Number: \ xf000ȁ \ x0001 \ x0000-\ xf000Ȅ \ x0001 \ x0001-\ xf000Ȅ \ x0001 \ x0002 \ xfffe
+See the video before battle \ xfffe Kakimasu report
+Poppy is a sure Kiro ... ... \ xfffe report has a lot of you ...
+Reports are a lot of you ...
+I write a report ...
+There are no rankings ...
+Okurimasu video or battle?
+
+
+
+
+
+
+
+
+20 Ken Shin Sai Daisuki Box
+Cool Box 20 Sai Shin Ken
+20 Ken Shin Sai pretty box
+Recommended Box 20 Sai Shin Ken
+20 Ken Shin Sai fun box
+20 Ken Shin Sai commitment Box
+Man of the same Yukugaeri
+Take insect speak Year
+Man of Trainer
+Skinheads
+Ruins Mania
+To the king
+Young master you
+Kicker man of size
+Miniskirt
+Battle Girl
+Adult sister
+Trainer woman
+Idol
+Madam
+Cowgirl
+Uncle Yousama
+Black.
