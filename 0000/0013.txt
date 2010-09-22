@@ -1,55 +1,55 @@
-\xf000Ă\x0001\x0000を　どうする？
-マーキング　してください
-ほんとうに　にがしますか？
-\xf000Ă\x0001\x0000を　そとに　にがしてあげた
-ばいばい　\xf000Ă\x0001\x0000！
-てもちが　いっぱいです！
-たたかうポケモンが　いなくなります！
-このボックスを　どうしますか？
-どのボックスに\xfffeジャンプしますか？
-どのテーマに　しますか？
-どの　かべがみに　しますか？
-ボックスそうさを　つづけますか？
-このボックスは　いっぱいです！
-バッグが　いっぱいです！
-\xf000ĉ\x0001\x0000を　あずかった！
-\xf000ĉ\x0001\x0000を　もたせた！
-ポケモンを　タッチ！
-どのボックスへ　あずける？
-もちものなし
+\ Xf000Ă \ x0001 \ x0000 to do?
+Please mark
+Nigashimasu really do?
+\ Xf000Ă \ x0001 \ x0000 Nigashi gave up the inside and outside the
+Bye bye \ xf000Ă \ x0001 \ x0000!
+Rice is full of them!
+Pokemon will not fight!
+What if this box?
+Which box \ xfffe Would you jump?
+How do the themes?
+What do the wallpapers?
+Yes I continue to box?
+This box is full!
+Bag is full!
+\ Xf000ĉ \ x0001 \ x0000 that participated to?
+\ Xf000ĉ \ x0001 \ x0000 remembering!
+Touch the Pokemon!
+How to Azukeru box?
+Nothing rice
 ♂
 ♀
-\xf000ĉ\x0001\x0000を　あずかりますか？
-メールをしまうことは　できません！
-\xf000ĉ\x0001\x0000を　どうしますか？
-\xf000ĉ\x0001\x0000を　しまいますか？
-\xf000ĉ\x0001\x0000を　バッグに　いれた！
-どうぐを　もつことが　できます
-メールを　はずしてください！
-タマゴを　にがすことは　できません！
-\xf000Ă\x0001\x0000が　もどってきちゃった！
-しんぱい　だったのかな……
-タマゴは　どうぐを　もてません！
-マークを　タッチしよう！
-ボックスに　おけます！
-てもちに　くわえることが　できます！
-このボックスは　いっぱいです！
-てもちが　いっぱいです！
-ポケモンを　あずける
-ポケモンを　つれていく
-ボックスを　せいりする
-もちものを　せいりする
-バトルボックス
-ねかすポケモンをえらぶ
-メールは　いどうできません！
-\xf000ĉ\x0001\x0000を　もてない！
-メールを　もっています！
-たたかうポケモンが　いなくなります！
-メールは　いどうできません！
-ここでは　メールを　もたせられません
-タマゴは　えらべません！
-\xf000Ă\x0001\x0000を　ねむらせます\xfffeよろしいですか？
-このポケモンは\xfffeいまは　ねむくないみたいです
-ポケモンせんたくを　つづけますか？
-バトルボックスが　ロックされています\xfffeポケモンは　いどう　できません
-バトルボックスが　ロックされています\xfffeもちものは　へんこう　できません
+\ Xf000ĉ \ x0001 \ x0000 Azukarimasu to do?
+It can not get mail!
+\ Xf000ĉ \ x0001 \ x0000 What do you do to?
+\ Xf000ĉ \ x0001 \ x0000 will do to?
+\ Xf000ĉ \ x0001 \ x0000 brewed a bag!
+You can do immediately with
+Please remove the mail!
+Nigasu an egg can not be!
+\ Xf000Ă \ x0001 \ x0000 got the come back!
+I was worried that ...
+The egg immediately Motemasen to do!
+Try to touch the mark!
+Okemasu box!
+Allows adding the rice to you!
+This box is full!
+Rice is full of them!
+Pokemon Azukeru
+Pokemon proportion will
+Scrambled to make the box
+What will be roasted rice
+Battle Box
+Pick out a Pokemon Nekasu
+If Mail can not do!
+\ Xf000ĉ \ x0001 \ x0000 a romantically-challenged!
+I have mail!
+Pokemon will not fight!
+If Mail can not do!
+This will make the e-mail is not
+Erabemasen an egg!
+\ Xf000Ă \ x0001 \ x0000 Nemurasemasu a \ xfffe you sure?
+This Pokemon \ xfffe now seems Nemukunai
+Pokemon continues to do laundry?
+Battle Box has been locked \ xfffe Pokemon do not have
+Battle Box has been locked \ xfffe not this what Hahen rice
